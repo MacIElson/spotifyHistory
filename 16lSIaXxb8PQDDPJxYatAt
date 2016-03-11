@@ -1,0 +1,27 @@
+{
+    "id": "16lSIaXxb8PQDDPJxYatAt",
+    "name": "Disney",
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "album": {
+                        "name": "Tangled"
+                    },
+                    "id": "6klpXs2uAjagnZMFkt4qkl",
+                    "name": "I See the Light"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Mulan (Soundtrack)"
+                    },
+                    "id": "28UMEtwyUUy5u0UWOVHwiI",
+                    "name": "I'll Make a Man Out of You"
+                }
+            }
+        ],
+        "next": null
+    }
+}
