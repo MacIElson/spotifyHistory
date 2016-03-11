@@ -1,0 +1,459 @@
+{
+    "id": "1yHZ5C3penaxRdWR7LRIOb",
+    "name": "New Music Friday",
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "album": {
+                        "name": "LIKE I WOULD"
+                    },
+                    "id": "0WEVf4RhIrcr3S3ULBrt0T",
+                    "name": "LIKE I WOULD"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Dangerous Woman"
+                    },
+                    "id": "2pWZZZGURB0k1R38CP8ouq",
+                    "name": "Dangerous Woman"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Swan"
+                    },
+                    "id": "5RIIvNwYOzYyyADH1A0lPB",
+                    "name": "Swan"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Don't Worry About Me"
+                    },
+                    "id": "2sspURwAn31TgIdW1KOgOS",
+                    "name": "Don't Worry About Me"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Misery"
+                    },
+                    "id": "0y2KpuJB460GrOxWSsLJ5M",
+                    "name": "Misery"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Breathe"
+                    },
+                    "id": "0CvTKt7jr68v4YEg9oATjX",
+                    "name": "Breathe"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Feels (Jai Wolf Remix)"
+                    },
+                    "id": "57rOXabUKgkrwHPSqzo4s5",
+                    "name": "Feels - Jai Wolf Remix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Hallelujah California"
+                    },
+                    "id": "3Yli6uJEhTTVQm1mXjeEeZ",
+                    "name": "Hallelujah California"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it"
+                    },
+                    "id": "1JmLA5HZ7Wp7L8DNctLpUW",
+                    "name": "Nana"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "SWISH"
+                    },
+                    "id": "2gcqVTesDy08DOB2rV2Odt",
+                    "name": "Life in a Bubble I Blew"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Addicted"
+                    },
+                    "id": "50xsN9qMpaw8LcCxQ279zR",
+                    "name": "Addicted"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "All My Demons Greeting Me As A Friend"
+                    },
+                    "id": "6K6iLWIVSSh0A8oeDbue9w",
+                    "name": "Warrior"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Smoke Filled Room (Acoustic Session)"
+                    },
+                    "id": "0ncp94ULTBgS0U3GZD80AC",
+                    "name": "Smoke Filled Room - Acoustic Session"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Small Voices"
+                    },
+                    "id": "6ciKPkloIWogbu3eAezVVD",
+                    "name": "Small Voices"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "U Up - Single"
+                    },
+                    "id": "6Ec8oKwGM4oU1oVKwzlla3",
+                    "name": "U Up"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Marathon Man"
+                    },
+                    "id": "5boD0WWWJXZL53thmJVHQv",
+                    "name": "Marathon Man"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Paranoia"
+                    },
+                    "id": "7gYL9E5WN7Nd8l2ZQ1rkKI",
+                    "name": "Paranoia"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Painkillers"
+                    },
+                    "id": "1EQ9DvgyNEXErxzWIQsGRG",
+                    "name": "Nobody Wins"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Portrait"
+                    },
+                    "id": "4mRPuRPocCYYwVT1XLzWzF",
+                    "name": "Souvenirs"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Open Arms"
+                    },
+                    "id": "5jQQDwJosT89Wy5vOLCafm",
+                    "name": "Open Arms"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Communion (Deluxe)"
+                    },
+                    "id": "4ZH03VC3uJk7uKk7CwsBqH",
+                    "name": "Desire"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Bemidji"
+                    },
+                    "id": "0JtqBFraioHX1LNryi2Ow9",
+                    "name": "Always/Never"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "California Kids"
+                    },
+                    "id": "2hwrrI9LSuiJPj1ASARI6s",
+                    "name": "California Kids"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Alright For Me"
+                    },
+                    "id": "4sdtOuj2AqynfMhaMyvSNR",
+                    "name": "Alright For Me"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Liana"
+                    },
+                    "id": "7xq6fFAqmYZE0PIPLZbuVf",
+                    "name": "Liana"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "WHERE THE HELL ARE MY FRIENDS"
+                    },
+                    "id": "0b8mGZFzNge8J9PsgGdudT",
+                    "name": "WHERE THE HELL ARE MY FRIENDS"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "A Minor Life"
+                    },
+                    "id": "3ZaSNurM0FogOA5pc15Ho1",
+                    "name": "A Minor Life"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Radar"
+                    },
+                    "id": "0yV5qhdKGWG8Du484dLQSi",
+                    "name": "Radar"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Lonely Is A Lifetime"
+                    },
+                    "id": "3fpBOcwPGvYIiJDpOB14c3",
+                    "name": "Lonely Is A Lifetime"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Gang With Me (feat. Vic Mensa)"
+                    },
+                    "id": "4SaRYaZ9t3HF1ia4Nljjci",
+                    "name": "Gang With Me (feat. Vic Mensa)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Good As Hell"
+                    },
+                    "id": "6uAm7pG66O1XesXS9bpHSF",
+                    "name": "Good As Hell"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "With You"
+                    },
+                    "id": "1ObQx60VdEzrUgwZeDRg1w",
+                    "name": "With You"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Now That I've Found You (feat. John & Michel)"
+                    },
+                    "id": "7wZorJD5loL9ceLJ67sg6S",
+                    "name": "Now That I've Found You (feat. John & Michel)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Wicked Man Ting - Single"
+                    },
+                    "id": "5lmoezJ9h92uC4YoPqsYoY",
+                    "name": "Wicked Man Ting"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Dapper"
+                    },
+                    "id": "3seHx466iTcUmWE9dOVB3v",
+                    "name": "Dapper"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "In The Room: Weight in Gold (feat. Seal)"
+                    },
+                    "id": "2MR7uOIOsLEgRL6xi9p5pS",
+                    "name": "Weight in Gold (feat. Seal)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "War"
+                    },
+                    "id": "6qjYU8i2pTvQAjp77KphHa",
+                    "name": "War"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Mating Ritual"
+                    },
+                    "id": "7nb2lXCU7XmsykmkuJJkgi",
+                    "name": "Cold (feat. Lizzy Land)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Dusty Trails"
+                    },
+                    "id": "2R2FnqMxeHfR5ROc41o68T",
+                    "name": "Dusty Trails"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "What's The Secret?"
+                    },
+                    "id": "2LULP9JriUoeOQuVVuBspj",
+                    "name": "What's The Secret?"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Two Feet Off The Ground"
+                    },
+                    "id": "6ZcJMSlsZ7UheKoblAjXgx",
+                    "name": "Two Feet Off The Ground"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Undertow"
+                    },
+                    "id": "6qkob8z6b7G4aPeQT8EQwI",
+                    "name": "Undertow"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Run"
+                    },
+                    "id": "3EARHnPAUguoJkpxrPrzJu",
+                    "name": "Run"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Brilliant EP"
+                    },
+                    "id": "2JkpXzIc5yMdPcMKhRkBlc",
+                    "name": "Bad Gurl"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Bass Charmer (feat. JFMEE)"
+                    },
+                    "id": "3PKjtWFHJDv6S3kE0DzxQQ",
+                    "name": "Bass Charmer (feat. JFMEE)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Dancing On My Own"
+                    },
+                    "id": "2TmLZLv57mW4OA3Il1ULsf",
+                    "name": "Dancing On My Own"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Fantasy Boys"
+                    },
+                    "id": "3E1d43jYgxrpe0DD06rhIK",
+                    "name": "Fantasy Boys"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Limits - EP"
+                    },
+                    "id": "2lxNL5tPao2FvHa2HzLkjx",
+                    "name": "Oh"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Seventeen"
+                    },
+                    "id": "14X8WBYW0Xqov3EeHjlBl0",
+                    "name": "Seventeen"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Future Soup EP"
+                    },
+                    "id": "0eSCQfYaAn7IOyFlVeSs0q",
+                    "name": "Slow Burn"
+                }
+            }
+        ],
+        "next": null
+    }
+}
