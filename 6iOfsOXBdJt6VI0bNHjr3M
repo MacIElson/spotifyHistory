@@ -1,0 +1,558 @@
+{
+    "id": "6iOfsOXBdJt6VI0bNHjr3M",
+    "name": "Songs I like",
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "album": {
+                        "name": "Spotify Sessions"
+                    },
+                    "id": "2vfJViaV9pUGUpHK9fVipO",
+                    "name": "Something's Gotta Give - Live From Spotify UK"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Bombastic"
+                    },
+                    "id": "4bcoWuBDrHX3uvmR9abW1w",
+                    "name": "Bombastic"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Wildfire"
+                    },
+                    "id": "3JqIQ0kSlk6GBQji1fjFgf",
+                    "name": "Wildfire"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Spotify Sessions"
+                    },
+                    "id": "0s9caJETC5R007wrVTzTUO",
+                    "name": "Body of My Own"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Pharmacy"
+                    },
+                    "id": "1PBk2knn4anq0vaS5KGDG2",
+                    "name": "In My Head"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Kiddo"
+                    },
+                    "id": "3AcTkjcmPD0SROp1AYGsOD",
+                    "name": "Even If I'm Loud It Doesn't Mean I'm Talking to You"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Make You Mine"
+                    },
+                    "id": "4tBaLEojHIEhe4cZe5qpIH",
+                    "name": "Make You Mine"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Fire Under My Feet"
+                    },
+                    "id": "2fj90lyJ4av28ToUWiGxYE",
+                    "name": "Fire Under My Feet"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Spotify Sessions"
+                    },
+                    "id": "4E2dsEUL3z5Nq0rEEqkBLt",
+                    "name": "Empty Nesters"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Pity Party"
+                    },
+                    "id": "6GvAaKhK4Q2Xd30mQ9gbWK",
+                    "name": "Pity Party"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "How Big, How Blue, How Beautiful (Deluxe)"
+                    },
+                    "id": "5LQxAp0ZqRpKcfwPHS0xHb",
+                    "name": "How Big, How Blue, How Beautiful"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Young"
+                    },
+                    "id": "1zeFZQUo6eMjGgXLTFwI7R",
+                    "name": "Young"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "40oz. on Repeat"
+                    },
+                    "id": "5Oj0ehXRJuavMQVizUWSG2",
+                    "name": "40oz. On Repeat"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "One Last Night On Earth"
+                    },
+                    "id": "4TkKjeNOVQG0ebYsoMx1NT",
+                    "name": "One Last Night On Earth"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Rising Love"
+                    },
+                    "id": "3uc6OtNu0aJEgF7lzIvPZI",
+                    "name": "Rising Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Annie"
+                    },
+                    "id": "3QUTlwa3FQp9uY1akNHQL2",
+                    "name": "Annie"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Broken Record"
+                    },
+                    "id": "40BpgGpiUezpOMtQoq8lH2",
+                    "name": "Broken Record"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Fast Lane"
+                    },
+                    "id": "2htMKaXok60eoqe4Odd7Gv",
+                    "name": "Fast Lane"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Claudeland"
+                    },
+                    "id": "5I5tAAD4JeVEXgYKORJZrh",
+                    "name": "Claudeland"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Gold"
+                    },
+                    "id": "0EIBFECFCgo4tNlPwKqYMQ",
+                    "name": "Gold"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "All Your Favorite Bands"
+                    },
+                    "id": "4BwH8CqZkep7evUpHbAvEm",
+                    "name": "Things Happen"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Children Of The Wild (feat. Mako)"
+                    },
+                    "id": "1uL4Nj0JRsIt0EibpO4Zx1",
+                    "name": "Children Of The Wild (feat. Mako)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Before We Forgot How To Dream"
+                    },
+                    "id": "4veMhq3XwUFzw8QQLJdmNA",
+                    "name": "Reckless Behaviour"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "No No No"
+                    },
+                    "id": "140ZtSB1AWAZ4laUUNrkiL",
+                    "name": "No No No"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Calling Me - EP"
+                    },
+                    "id": "6b6LT7dAc74hjzS26CtPlJ",
+                    "name": "Waiting"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Bad Girls"
+                    },
+                    "id": "3F97NSex1rBX2ekPQsHAsT",
+                    "name": "Bad Girls"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "You're Mine"
+                    },
+                    "id": "4zlHIrYB5OaVPhjwstXXrB",
+                    "name": "You're Mine"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Together (Radio Edit)"
+                    },
+                    "id": "2ec6A7BVwscwirxa0gnWHj",
+                    "name": "Together - Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Peace Is The Mission"
+                    },
+                    "id": "65CwDAHBtAuhPmIEbX3Rn7",
+                    "name": "Powerful (feat. Ellie Goulding & Tarrus Riley)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "On The Wire"
+                    },
+                    "id": "4LqI6VMKsAfvxCpepSiMyQ",
+                    "name": "On The Wire"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Chocolate Haze"
+                    },
+                    "id": "4mxh2NExRSOb7bJTRnJPyK",
+                    "name": "Overflow"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Cages"
+                    },
+                    "id": "6KYidXoCoAzVpfJdgNw6lT",
+                    "name": "Cages"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Geeks Will Inherit The Earth"
+                    },
+                    "id": "24vdUMCZe2oMKYAb8YAnKl",
+                    "name": "The Geeks Will Inherit The Earth"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Waiting For Love"
+                    },
+                    "id": "5eCgNATwXgRc4mZx9NymGJ",
+                    "name": "Waiting For Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Truth"
+                    },
+                    "id": "5OyibkkbtWVY2LYfiC9azq",
+                    "name": "Not That Simple"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Hold On"
+                    },
+                    "id": "1JUfgsFPWjXT3ZzzV77v5u",
+                    "name": "Hold On - Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "How Do You Feel Now?"
+                    },
+                    "id": "5mCprFWOqe0jB96v9RhLBo",
+                    "name": "Tongues"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Sometime Last Night"
+                    },
+                    "id": "52a4NX1NATf6awjHAwg19k",
+                    "name": "F.E.E.L.G.O.O.D."
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Blood To Bone"
+                    },
+                    "id": "0yyFzMfZvHdM1RAwMArUuz",
+                    "name": "Written In The Water"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Sing It All Away"
+                    },
+                    "id": "0gF8D0YtCwdlZPsu0Tx9T1",
+                    "name": "Rule the World"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Ready For You"
+                    },
+                    "id": "61ypxNWXEGVTemBFvut4Z7",
+                    "name": "Ready For You"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Midnight Island"
+                    },
+                    "id": "5EZlHutUfiJI0m3Yew3RF7",
+                    "name": "Midnight Island"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Bloodstream"
+                    },
+                    "id": "6nLK16X8LQO4FS9cOnAOAs",
+                    "name": "Bloodstream"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Feline (Deluxe)"
+                    },
+                    "id": "4u1Ze8oMD4DzNavMZVy7jV",
+                    "name": "Good Times"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Oh Wonder"
+                    },
+                    "id": "3X3mfRMRaPJRiIMDMQtSkd",
+                    "name": "Landslide"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "VENUS"
+                    },
+                    "id": "6rCIX0dTJDhIxv5iBFSjPh",
+                    "name": "Woman (Oh Mama)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Neon Future II"
+                    },
+                    "id": "6vscP7Fweq7fwosyliwjRq",
+                    "name": "I Love It When You Cry (Moxoki) - Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Darling"
+                    },
+                    "id": "2lmKLINBKNk8UVVSVfS8iC",
+                    "name": "Worlds On Fire"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Our Own House"
+                    },
+                    "id": "4LiTVwc9MU5HJLNLgnSW6Y",
+                    "name": "Our Own House"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Skinny Love Remixes"
+                    },
+                    "id": "2qdP4opHhLkDUGxzirBy8M",
+                    "name": "Skinny Love - Fareoh Remix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Circles (feat. Vanic)"
+                    },
+                    "id": "1QqVXJhaHXpWHrnaEvTzi1",
+                    "name": "Circles"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Roses (Deluxe)"
+                    },
+                    "id": "0Dp1Ky2jVUjWKuF68D92cW",
+                    "name": "Carry On"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Feet Don't Fail Me Now"
+                    },
+                    "id": "0FrnIOPbBSDz9m1ZieXhmA",
+                    "name": "Feet Don't Fail Me Now"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Need To Know"
+                    },
+                    "id": "2039juQOFMpEuA6P6oOMZ9",
+                    "name": "Put 'Em Up"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Pentatonix (Deluxe Version)"
+                    },
+                    "id": "6v08G3CGcoyiODIWZoOxR4",
+                    "name": "Na Na Na"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Pentatonix (Deluxe Version)"
+                    },
+                    "id": "4940HtUKC4VDtiC5s4t4MT",
+                    "name": "Sing"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Hello"
+                    },
+                    "id": "0ENSn4fwAbCGeFGVUbXEU3",
+                    "name": "Hello"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Herp de Derp"
+                    },
+                    "id": "4sj4dVuZEqecmcw4V2Awoy",
+                    "name": "Herp de Derp"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "7 Years"
+                    },
+                    "id": "2vDT1uU6hZgdp3PbWGr0Xy",
+                    "name": "7 Years"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Handwritten"
+                    },
+                    "id": "3zkWCteF82vJwv0hRLba76",
+                    "name": "Stitches"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "ANTI-HERO"
+                    },
+                    "id": "13CQRPOa5Ss1Y4ISj13av1",
+                    "name": "ANTI-HERO"
+                }
+            }
+        ],
+        "next": null
+    }
+}
